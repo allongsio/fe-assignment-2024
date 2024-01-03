@@ -80,6 +80,9 @@ git push
 
 - [과제 repository](https://github.com/bjchango/fe-assignment-2024)로 이동 후 Pull Request를 요청하세요.
 
+ ![스크린샷 2024-01-03 오후 1 52 42](https://github.com/bjchango/fe-assignment-2024/assets/97326130/7de7c3e0-1d26-42e0-a685-e68b50f13b79)
+
+
 - PR이 생성되었다면 해당 PR의 주소를 복사해 자기소개서 가장 하단에 붙여넣은 뒤 제출해주세요.
 
 <br/>
